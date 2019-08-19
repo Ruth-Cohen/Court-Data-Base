@@ -1,0 +1,2 @@
+select* from court_case 
+where case_type = 'family' and extract(year from opendate) > 2000

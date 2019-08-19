@@ -1,0 +1,7 @@
+120001,Dina,Levi,1961/08/25,Haifa,Herzel,87
+108001,Sara,Shalom,1957/03/17,Netanya,Hshomer,15
+1,Baruch,Lev,1966/11/28,Jerusalem,devash,30
+60001,Chaim,Rivlin,1970/04/06,Jerusalem,pumbedita,6
+24001,Dan,Holander,1972/12/22,Tel Aviv,dizingof,129
+84001,Yaron,Green,1989/02/09,Tel Aviv,Hanevim,25
+36001,Bina,Nisan,1990/07/18,Ramat Gan,Hgilgal,13

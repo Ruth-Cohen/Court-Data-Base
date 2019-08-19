@@ -1,0 +1,1 @@
+alter table  PERSON ADD GENDER VARCHAR2(38)
